@@ -43,9 +43,13 @@ SNPRelate
 
 ## Directories
 **bin**: contains the scripts and is the working directory for them.
+
 **meta**: information related to data collection, populations, etc.
+
 **data**: filtered vcf files are available at [https://osf.io/h7sa5/](https://osf.io/h7sa5/)
+
 **fastsimcoal**: contains the script to perform the demographic analysis 
+
 ##Script organization
 **1 Filtering**
 1.1 Depth and missingness filtering: ``Filtering&transform.sh``
