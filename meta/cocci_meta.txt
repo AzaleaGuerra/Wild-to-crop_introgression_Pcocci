@@ -1,0 +1,238 @@
+Order	ID	Especie	Locacion	Estatus2	Fecha_colecta	Estado	Municipio	Latitud	Longitud	Altitud	Cluster-Admix	Population	Subset
+1	AltoFe_1	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+2	AltoFe_10	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Excluded
+3	AltoFe_3	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+4	AltoFe_4	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Excluded
+5	AltoFe_5	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+6	AltoFe_6	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Excluded
+7	AltoFe_7	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+8	AltoFe_8	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+9	AltoFe_9	P. coccineus	Altotonga	Feral	6-Sep-15	Veracruz	Altotonga	19.75333333	-97.25	1959	Cult-SUR-CH	Feral	Included
+10	Comal_10	P. coccineus	Comaltepec	Wild	26-Oct-14	Oaxaca	Comaltepec	17.55211667	-96.5254	2876	Wild-SUR-CH	Wild-SUR-O	Included
+11	Comal_14	P. coccineus	Comaltepec	Wild	27-Oct-14	Oaxaca	Comaltepec	17.55211667	-96.5254	2876	Wild-SUR-CH	Wild-SUR-O	Included
+12	Comal_16c	P. coccineus	Comaltepec	Wild	28-Oct-14	Oaxaca	Comaltepec	17.55211667	-96.5254	2876	Wild-SUR-CH	Wild-SUR-O	Included
+13	Comal_3	P. coccineus	Comaltepec	Wild	28-Oct-14	Oaxaca	Comaltepec	17.55211667	-96.5254	2876	Wild-SUR-CH	Wild-SUR-O	Included
+14	FrijCol_1	P. coccineus	FrijolColorado	Cultivar	6-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Included
+15	FrijCol_10	P. coccineus	FrijolColorado	Cultivar	7-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+16	FrijCol_11	P. coccineus	FrijolColorado	Cultivar	8-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Included
+17	FrijCol_2	P. coccineus	FrijolColorado	Cultivar	9-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+18	FrijCol_3	P. coccineus	FrijolColorado	Cultivar	10-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+19	FrijCol_4	P. coccineus	FrijolColorado	Cultivar	11-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Included
+20	FrijCol_5	P. coccineus	FrijolColorado	Cultivar	12-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Included
+21	FrijCol_6	P. coccineus	FrijolColorado	Cultivar	13-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+22	FrijCol_7	P. coccineus	FrijolColorado	Cultivar	14-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+23	FrijCol_8	P. coccineus	FrijolColorado	Cultivar	15-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+24	FrijCol_9	P. coccineus	FrijolColorado	Cultivar	16-Sep-15	Veracruz	Perote	19.589372	-97.35107	2419	Cult-TMVB	Cult-TMVB	Excluded
+25	Huau_10	P. coccineus	Huautla	Feral	29-Oct-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+26	Huau_12	P. coccineus	Huautla	Feral	30-Oct-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+27	Huau_5	P. coccineus	Huautla	Feral	31-Oct-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+28	Huau_6	P. coccineus	Huautla	Feral	1-Nov-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+29	Huau_A	P. coccineus	Huautla	Feral	2-Nov-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+30	Huau_C	P. coccineus	Huautla	Feral	3-Nov-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+31	Huau_D	P. coccineus	Huautla	Feral	4-Nov-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+32	Huau_E	P. coccineus	Huautla	Feral	5-Nov-14	Oaxaca	Huautla	18.10451667	-96.8325	1746	Feral	Feral	Included
+33	Jud_1	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+34	Jud_2	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+35	Jud_3	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+36	Jud_4	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+37	Jud_5	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+38	Jud_6	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+39	Jud_7	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+40	Jud_8	P. coccineus	Espana	Cultivar	2015	NA	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB-Spain	Included
+41	OriMon_1	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Excluded
+42	OriMon_10	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+43	OriMon_2	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+44	OriMon_3	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+45	OriMon_4	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Excluded
+46	OriMon_5	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+47	OriMon_6	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+48	OriMon_7	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+49	OriMon_8	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Included
+50	OriMon_9	P. coccineus	OrillaDelMonte	Cultivar	6-Sep-15	Veracruz	Jalacingo	19.660901	-97.293402	2402	Cult-TMVB	Cult-TMVB	Excluded
+51	REP_101	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+52	REP_102	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Excluded
+53	REP_103	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+54	REP_104	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+55	REP_105	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Excluded
+56	REP_106	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+57	REP_2	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+58	REP_3	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+59	REP_5	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Excluded
+60	REP_6	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+61	REP_A	P. coccineus	REPSA	Wild	2015	CiudadMexico	Coyoacan	19.317204	-99.195192	2328	Wild-TMVB	Wild-TMVB-CDMX	Included
+62	SanJoa_101	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+63	SanJoa_102	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+64	SanJoa_103	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+65	SanJoa_105	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+66	SanJoa_106	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+67	SanJoa_107	P. coccineus	SanJoaquin	Wild	ago-15	Quer??taro	San Joanquin	20.9255	-99.56361667	2381	Wild-TMVB	Wild-TMVB-SanJoa	Included
+68	Tepoz_1	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+69	Tepoz_10	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+70	Tepoz_11	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+71	Tepoz_12	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+72	Tepoz_13	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+73	Tepoz_16	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+74	Tepoz_17	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+75	Tepoz_2	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+76	Tepoz_4	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+77	Tepoz_6	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+78	Tepoz_7	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+79	Tepoz_8	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Excluded
+80	Tepoz_9	P. coccineus	Tepoztlan	Wild	2-Sep-15	Morelos	Tepoztlan	19.00491667	-99.13247222	1953	Wild-TMVB	Wild-TMVB-Tepoz	Included
+81	Tlalp_1	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+82	Tlalp_2	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+83	Tlalp_3	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+84	Tlalp_4	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+85	Tlalp_5	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Excluded
+86	Tlalp_6	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+87	Tlalp_7	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+88	Tlalp_8	P. coccineus	Tlalpan	Wild	27/09/2015	CiudadMexico	Tlalpan	19.292935	-99.191807	2334	Wild-TMVB	Wild-TMVB-CDMX	Included
+89	TrMar_1	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+90	TrMar_11	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Excluded
+91	TrMar_12	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+92	TrMar_13	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+93	TrMar_14	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+94	TrMar_15	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Excluded
+95	TrMar_16	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+96	TrMar_17	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Excluded
+97	TrMar_18	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+98	TrMar_2	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+99	TrMar_3	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+100	TrMar_4	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+101	TrMar_5	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+102	TrMar_6	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+103	TrMar_8	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+104	TrMar_9	P. coccineus	TresMarias	Wild	2-Sep-15	EstadoMexico	Huitzilac	19.10016667	-99.20833333	3024	Wild-striatus	Wild-striatus	Included
+105	XochPue_1	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Included
+106	XochPue_2	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Included
+107	XochPue_3	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Excluded
+108	XochPue_4	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Excluded
+109	XochPue_5c	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Included
+110	XochPue_6	P. coccineus	XochPuebla	Cultivar	2014	Puebla	NA	NA	NA	NA	Cult-TMVB	Cult-TMVB	Excluded
+111	bltl_01	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+112	bltl_02	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+113	bltl_03	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+114	bltl_04	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+115	bltl_05	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+116	bltl_06	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+117	bltl_07	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+118	bltl_08	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+119	bltl_09	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+120	bltl_10c	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+121	bltl_11	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Excluded
+122	bltl_12	P. coccineus	BlancoTlaxcala	Cultivar	NA	NA	NA	NA	NA	NA	Cult-SMOCC	Cult-SMOCC-BlaTla	Included
+123	cuil_01c	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+124	cuil_02	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+125	cuil_03	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+126	cuil_04	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+127	cuil_05	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+128	cuil_07	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+129	cuil_11	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+130	cuil_21	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+131	cuil_22	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+132	cuil_23c	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Excluded
+133	cuil_24	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+134	cuil_25	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+135	cuil_26	P. coccineus	Cuilapam	Cultivar	1/12/2015	Oaxaca	Cuilapam	16.992662	-96.77859	1577	Cult-OV	Cult-OV	Included
+136	duco_01	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+137	duco_02	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+138	duco_03	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+139	duco_04	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+140	duco_05	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+141	duco_06	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+142	duco_07	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Included
+143	duco_09	P. coccineus	Durango	Cultivar	2015	Durango	Durango	NA	NA	NA	Cult-SMOCC	Cult-SMOCC	Excluded
+144	edia_01	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+145	edia_02	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+146	edia_03	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+147	edia_04	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+148	edia_05	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+149	edia_06	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+150	edia_07	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+151	edia_08	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+152	edia_09	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+153	edia_10	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+154	edia_11	P. coccineus	EspinazoDiablo	Wild	25-Oct-15	Durango	Espinazo del Diablo	23.64005	-105.8248833	1422	Wild-SMOCC	Wild-SMOCC-EspDia	Included
+155	gole_01	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Excluded
+156	gole_02	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Excluded
+157	gole_03	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Included
+158	gole_04	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Excluded
+159	gole_05	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Excluded
+160	gole_06	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Included
+161	gole_07	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Included
+162	gole_08	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Excluded
+163	gole_09	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Included
+164	gole_10	P. coccineus	GonzalezLeon	Cultivar	15/12/15	Chiapas	Margarita	16.50694444	-92.06416667	1579	Cult-SUR-CH	Cult-SUR-CH	Included
+165	naha_01	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+166	naha_02	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Excluded
+167	naha_03	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+168	naha_04	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+169	naha_05	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+170	naha_06	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+171	naha_07	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Excluded
+172	naha_08	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Excluded
+173	naha_09	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+174	naha_10	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+175	naha_11	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+176	naha_12	P. coccineus	Naha	Cultivar	15/12/15	Chiapas	Ocosingo	16.94064	-91.590376	917	Cult-SUR-CH	Cult-SUR-CH	Included
+177	oxch_03	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+178	oxch_04	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+179	oxch_05	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+180	oxch_06	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+181	oxch_07	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+182	oxch_08	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Excluded
+183	oxch_10	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+184	oxch_11	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+185	oxch_12c	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+186	oxch_13c	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+187	oxch_14	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+188	oxch_15	P. coccineus	Oxchuc	Cultivar	16/12/15	Chiapas	Oxchuc	16.803412	-92.322096	2001	Cult-SUR-CH	Cult-SUR-CH	Included
+189	pual_01	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+190	pual_02	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Included
+191	pual_03	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+192	pual_04	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+193	pual_05	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Included
+194	pual_06	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+195	pual_07	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Included
+196	pual_08	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Included
+197	pual_09	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+198	pual_10	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Included
+199	pual_11	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+200	pual_12	P. coccineus	Tlalancaneca	Cultivar	2015	Puebla	San Matias Tlalancaleca	19.362396	-98.508132	2372	Cult-TMVB	Cult-TMVB	Excluded
+201	regc_01	P. coccineus	Regocijo-C	Cultivar	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Cult-SMOCC	Cult-SMOCC	Included
+202	regc_02c	P. coccineus	Regocijo-C	Cultivar	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Cult-SMOCC	Cult-SMOCC	Included
+203	regc_04	P. coccineus	Regocijo-C	Cultivar	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Cult-SMOCC	Cult-SMOCC	Excluded
+204	regc_05	P. coccineus	Regocijo-C	Cultivar	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Cult-SMOCC	Cult-SMOCC	Excluded
+205	regc_06	P. coccineus	Regocijo-C	Cultivar	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Cult-SMOCC	Cult-SMOCC	Excluded
+206	regs_01	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+207	regs_02	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+208	regs_03	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Excluded
+209	regs_04	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+210	regs_05	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+211	regs_06	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+212	regs_08	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+213	regs_09	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+214	regs_10	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+215	regs_11	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+216	regs_13	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+217	regs_15	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+218	regs_17	P. coccineus	Regocijo-S	Wild	26-Oct-15	Durango	Durango	23.68485333	-105.1249	2566	Wild-SMOCC	Wild-SMOCC-Rego	Included
+219	scri_01	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Excluded
+220	scri_02	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+221	scri_03	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+222	scri_04	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+223	scri_05	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+224	scri_14	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+225	scri_16	P. coccineus	SanCristobal	Wild	16/12/15	Chiapas	San Cristobal	16.69805556	-92.60277778	2229	Wild-SUR-CH	Wild-SUR-CH	Included
+226	viun_01	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+227	viun_02	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+228	viun_03	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+229	viun_04	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+230	viun_05	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Excluded
+231	viun_06	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+232	viun_07	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+233	viun_08	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+234	viun_09	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+235	viun_10	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+236	viun_11	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included
+237	viun_12	P. coccineus	VillaUnion	Cultivar	NA	Durango	Poanas	23.974722	-104.044444	1901	Cult-SMOCC	Cult-SMOCC	Included

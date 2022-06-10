@@ -1,0 +1,73 @@
+# This is a parameter file for ADZE.
+# The entire line after a '#' will be ignored.
+
+###----Main Parameters----###
+MAX_G 30                #Max standardized sample size
+
+DATA_LINES 474          #Number of lines of data
+
+LOCI 73955                #Number of loci
+
+NON_DATA_ROWS 1       #Number of rows preceeding data
+                     #including at least the locus names
+
+NON_DATA_COLS 2       #Number of classifier columns
+                     #at the beginning of each data line
+
+GROUP_BY_COL 2        #The column number by which to
+                     #group the data
+
+DATA_FILE ../../data/coccineus-for-adze       #Name of the datafile
+
+R_OUT ../../data/cocci_allelRich20           #Name of the allelic richness output file
+
+P_OUT ../../data/cocci_allelRichPriv20           #Name of the private allelic richness
+                     #output file
+
+###----Combination Parameters----###
+COMB 0               #Calculate private allelic richness for
+                     #combinations of groupings?
+
+K_RANGE              #A listing of combinations to calculate
+
+C_OUT none           #Name of the private allelic richness of
+                     #combinations output file
+
+###----Advanced Options----###
+MISSING -9           #Missing data representation
+
+TOLERANCE 0.2          #Filter loci with a grouping having more
+                     #than this fraction of missing data
+
+FULL_R 0             #Output allelic richness results for
+                     #all loci?
+
+FULL_P 0             #Output private allelic richness results
+                     #for all loci?
+
+FULL_C 0             #Output private allelic richness for
+                     #combinations results for all loci?
+
+PRINT_PROGRESS 1     #Track calculation progress on screen?
+
+###----Command line arguments----###
+# -g MAX_G
+# -d DATA_LINES
+# -l LOCI
+# -nr NON_DATA_ROWS
+# -nc NON_DATA_COLS
+# -s GROUP_BY_COL
+# -f DATA_FILE
+# -r R_OUT
+# -p P_OUT
+# -c COMB
+# -k K_RANGE
+# -o COUT
+# -m MISSING
+# -t TOLERANCE
+# -tnocalc
+# -fr FULL_R
+# -fp FULL_P
+# -fc FULL_C
+# -pp PRINT_PROGRESS
+###----End of file----###

@@ -1,0 +1,293 @@
+ID,,Especie,Poblacion,Estatus2,Fecha_colecta,Estado,Municipio,Latitud,Longitud,Altitud,Cluster-Admix,Cluster-Pop
+AltoFe_1,AltoFe_1,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_10,AltoFe_10,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_3,AltoFe_3,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_4,AltoFe_4,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_5,AltoFe_5,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_6,AltoFe_6,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_7,AltoFe_7,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_8,AltoFe_8,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+AltoFe_9,AltoFe_9,P. coccineus,Altotonga,Feral,6-Sep-15,Veracruz,Altotonga,19.75333333,-97.25,1959,Cult-SUR-CH,Feral
+Alto_du_1,Alto_du_1,P. dumosus,Altotonga,P. dumosus-Cult,06/09/15,Veracruz,Altotonga,19.75333333,-97.25,1959,P. dumosus-Cult,P. dumosus-Cult
+Alto_du_2,Alto_du_2,P. dumosus,Altotonga,P. dumosus-Cult,06/09/15,Veracruz,Altotonga,19.75333333,-97.25,1959,P. dumosus-Cult,P. dumosus-Cult
+Alto_du_3,Alto_du_3,P. dumosus,Altotonga,P. dumosus-Cult,06/09/15,Veracruz,Altotonga,19.75333333,-97.25,1959,P. dumosus-Cult,P. dumosus-Cult
+Alto_du_4,Alto_du_4,P. dumosus,Altotonga,P. dumosus-Cult,06/09/15,Veracruz,Altotonga,19.75333333,-97.25,1959,P. dumosus-Cult,P. dumosus-Cult
+Alto_du_5,Alto_du_5,P. dumosus,Altotonga,P. dumosus-Cult,06/09/15,Veracruz,Altotonga,19.75333333,-97.25,1959,P. dumosus-Cult,P. dumosus-Cult
+AlubMo_1,AlubMo_1,P. vulgaris,España,P. vulgaris-Cult,2015,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+AlubMo_2,AlubMo_2,P. vulgaris,España,P. vulgaris-Cult,2016,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+AlubMo_3,AlubMo_3,P. vulgaris,España,P. vulgaris-Cult,2017,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+AlubTo_1,AlubTo_1,P. vulgaris,España,P. vulgaris-Cult,2018,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+AlubTo_2,AlubTo_2,P. vulgaris,España,P. vulgaris-Cult,2019,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+AlubTo_3,AlubTo_3,P. vulgaris,España,P. vulgaris-Cult,2020,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+Canela_1,Canela_1,P. vulgaris,España,P. vulgaris-Cult,2021,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+Canela_2,Canela_2,P. vulgaris,España,P. vulgaris-Cult,2022,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+Canela_3,Canela_3,P. vulgaris,España,P. vulgaris-Cult,2023,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+Comal_10,Comal_10,P. coccineus,Comaltepec,Wild,26-Oct-14,Oaxaca,Comaltepec,17.55211667,-96.5254,2876,Wild-SUR-CH,Wild-SUR-O
+Comal_14,Comal_14,P. coccineus,Comaltepec,Wild,27-Oct-14,Oaxaca,Comaltepec,17.55211667,-96.5254,2876,Wild-SUR-CH,Wild-SUR-O
+Comal_16c,Comal_16c,P. coccineus,Comaltepec,Wild,28-Oct-14,Oaxaca,Comaltepec,17.55211667,-96.5254,2876,Wild-SUR-CH,Wild-SUR-O
+Comal_3,Comal_3,P. coccineus,Comaltepec,Wild,28-Oct-14,Oaxaca,Comaltepec,17.55211667,-96.5254,2876,Wild-SUR-CH,Wild-SUR-O
+CuetM1_1,CuetM1_1,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM1_2,CuetM1_2,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM1_3,CuetM1_3,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM1_4,CuetM1_4,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM1_5,CuetM1_5,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM1_6,CuetM1_6,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_1,CuetM2_1,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_2,CuetM2_2,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_3,CuetM2_3,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_4,CuetM2_4,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_5,CuetM2_5,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+CuetM2_6,CuetM2_6,P. dumosus,Cuetzalan,P. dumosus-Cult,24/10/14,Puebla,Cuetzalan,19.988727,-97.544554,1684,P. dumosus-Cult,P. dumosus-Cult
+FrijCol_1,FrijCol_1,P. coccineus,FrijolColorado,Cultivar,6-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_10,FrijCol_10,P. coccineus,FrijolColorado,Cultivar,7-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_11,FrijCol_11,P. coccineus,FrijolColorado,Cultivar,8-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_2,FrijCol_2,P. coccineus,FrijolColorado,Cultivar,9-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_3,FrijCol_3,P. coccineus,FrijolColorado,Cultivar,10-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_4,FrijCol_4,P. coccineus,FrijolColorado,Cultivar,11-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_5,FrijCol_5,P. coccineus,FrijolColorado,Cultivar,12-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_6,FrijCol_6,P. coccineus,FrijolColorado,Cultivar,13-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_7,FrijCol_7,P. coccineus,FrijolColorado,Cultivar,14-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_8,FrijCol_8,P. coccineus,FrijolColorado,Cultivar,15-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+FrijCol_9,FrijCol_9,P. coccineus,FrijolColorado,Cultivar,16-Sep-15,Veracruz,Perote,19.589372,-97.35107,2419,Cult-TMVB,Cult-TMVB
+Hua_du_1,Hua_du_1,P. dumosus,Huautla,P. dumosus-Cult,25/10/14,Oaxaca,Huautla,18.10451667,-96.8325,1746,P. dumosus-Cult,P. dumosus-Cult
+Hua_du_2,Hua_du_2,P. dumosus,Huautla,P. dumosus-Cult,26/10/14,Oaxaca,Huautla,18.10451667,-96.8325,1746,P. dumosus-Cult,P. dumosus-Cult
+Hua_du_3,Hua_du_3,P. dumosus,Huautla,P. dumosus-Cult,27/10/14,Oaxaca,Huautla,18.10451667,-96.8325,1746,P. dumosus-Cult,P. dumosus-Cult
+Hua_du_4,Hua_du_4,P. dumosus,Huautla,P. dumosus-Cult,28/10/14,Oaxaca,Huautla,18.10451667,-96.8325,1746,P. dumosus-Cult,P. dumosus-Cult
+Huau_10,Huau_10,P. coccineus,Huautla,Feral,29-Oct-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_12,Huau_12,P. coccineus,Huautla,Feral,30-Oct-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_5,Huau_5,P. coccineus,Huautla,Feral,31-Oct-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_6,Huau_6,P. coccineus,Huautla,Feral,1-Nov-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_A,Huau_A,P. coccineus,Huautla,Feral,2-Nov-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_C,Huau_C,P. coccineus,Huautla,Feral,3-Nov-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_D,Huau_D,P. coccineus,Huautla,Feral,4-Nov-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Huau_E,Huau_E,P. coccineus,Huautla,Feral,5-Nov-14,Oaxaca,Huautla,18.10451667,-96.8325,1746,Cult-SUR-CH,Feral
+Jal_silv_1,Jal_silv_1,P. vulgaris,Jalisco,P. vulgaris-Wild,NA,Jalisco,NA,NA,NA,NA,P. vulgaris-Wild,P. vulgaris-Wild
+Jal_silv_2,Jal_silv_2,P. vulgaris,Jalisco,P. vulgaris-Wild,NA,Jalisco,NA,NA,NA,NA,P. vulgaris-Wild,P. vulgaris-Wild
+Jud_1,Jud_1,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_2,Jud_2,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_3,Jud_3,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_4,Jud_4,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_5,Jud_5,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_6,Jud_6,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_7,Jud_7,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+Jud_8,Jud_8,P. coccineus,Espana,Cultivar,2015,NA,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB-Spain
+OriMon_1,OriMon_1,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_10,OriMon_10,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_2,OriMon_2,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_3,OriMon_3,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_4,OriMon_4,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_5,OriMon_5,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_6,OriMon_6,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_7,OriMon_7,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_8,OriMon_8,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+OriMon_9,OriMon_9,P. coccineus,OrillaDelMonte,Cultivar,6-Sep-15,Veracruz,Jalacingo,19.660901,-97.293402,2402,Cult-TMVB,Cult-TMVB
+PlanLe_1,PlanLe_1,P. vulgaris,España,P. vulgaris-Cult,2015,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+PlanLe_2,PlanLe_2,P. vulgaris,España,P. vulgaris-Cult,2015,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+PlanLe_3,PlanLe_3,P. vulgaris,España,P. vulgaris-Cult,2015,NA,NA,NA,NA,NA,P. vulgaris-Cult,P. vulgaris-Cult
+REP_101,REP_101,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_102,REP_102,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_103,REP_103,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_104,REP_104,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_105,REP_105,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_106,REP_106,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_2,REP_2,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_3,REP_3,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_5,REP_5,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_6,REP_6,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_A,REP_A,P. coccineus,REPSA,Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,Wild-TMVB,Wild-TMVB-CDMX
+REP_vulg_1,REP_vulg_1,P. vulgaris,REPSA,P. vulgaris-Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,P. vulgaris-Wild,P. vulgaris-Wild
+REP_vulg_2,REP_vulg_2,P. vulgaris,REPSA,P. vulgaris-Wild,2015,CiudadMexico,Coyoacan,19.317204,-99.195192,2328,P. vulgaris-Wild,P. vulgaris-Wild
+SanJoa_101,SanJoa_101,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+SanJoa_102,SanJoa_102,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+SanJoa_103,SanJoa_103,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+SanJoa_105,SanJoa_105,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+SanJoa_106,SanJoa_106,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+SanJoa_107,SanJoa_107,P. coccineus,SanJoaquin,Wild,ago-15,Quer??taro,San Joanquin,20.9255,-99.56361667,2381,Wild-TMVB,Wild-TMVB-SanJoa
+Tepoz_1,Tepoz_1,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_10,Tepoz_10,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_11,Tepoz_11,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_12,Tepoz_12,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_13,Tepoz_13,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_16,Tepoz_16,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_17,Tepoz_17,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_2,Tepoz_2,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_4,Tepoz_4,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_6,Tepoz_6,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_7,Tepoz_7,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_8,Tepoz_8,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tepoz_9,Tepoz_9,P. coccineus,Tepoztlan,Wild,2-Sep-15,Morelos,Tepoztlan,19.00491667,-99.13247222,1953,Wild-TMVB,Wild-TMVB-Tepoz
+Tlalp_1,Tlalp_1,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_2,Tlalp_2,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_3,Tlalp_3,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_4,Tlalp_4,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_5,Tlalp_5,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_6,Tlalp_6,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_7,Tlalp_7,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+Tlalp_8,Tlalp_8,P. coccineus,Tlalpan,Wild,27/09/2015,CiudadMexico,Tlalpan,19.292935,-99.191807,2334,Wild-TMVB,Wild-TMVB-CDMX
+TrMar_1,TrMar_1,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_11,TrMar_11,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_12,TrMar_12,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_13,TrMar_13,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_14,TrMar_14,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_15,TrMar_15,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_16,TrMar_16,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_17,TrMar_17,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_18,TrMar_18,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_2,TrMar_2,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_3,TrMar_3,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_4,TrMar_4,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_5,TrMar_5,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_6,TrMar_6,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_8,TrMar_8,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+TrMar_9,TrMar_9,P. coccineus,TresMarias,Wild,2-Sep-15,EstadoMexico,Huitzilac,19.10016667,-99.20833333,3024,Wild-striatus,Wild-striatus
+XochPue_1,XochPue_1,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+XochPue_2,XochPue_2,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+XochPue_3,XochPue_3,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+XochPue_4,XochPue_4,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+XochPue_5c,XochPue_5c,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+XochPue_6,XochPue_6,P. coccineus,XochPuebla,Cultivar,2014,Puebla,NA,NA,NA,NA,Cult-TMVB,Cult-TMVB
+Yau_1,Yau_1,P. vulgaris,Yautepec,P. vulgaris-Wild,02/09/15,Morelos,Yautepec,18.950367,-99.07742,1386,P. vulgaris-Wild,P. vulgaris-Wild
+Yau_2,Yau_2,P. vulgaris,Yautepec,P. vulgaris-Wild,02/09/15,Morelos,Yautepec,18.950367,-99.07742,1386,P. vulgaris-Wild,P. vulgaris-Wild
+Yau_3,Yau_3,P. vulgaris,Yautepec,P. vulgaris-Wild,02/09/15,Morelos,Yautepec,18.950367,-99.07742,1386,P. vulgaris-Wild,P. vulgaris-Wild
+Yau_4,Yau_4,P. vulgaris,Yautepec,P. vulgaris-Wild,02/09/15,Morelos,Yautepec,18.950367,-99.07742,1386,P. vulgaris-Wild,P. vulgaris-Wild
+bltl_01,bltl_01,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_02,bltl_02,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_03,bltl_03,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_04,bltl_04,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_05,bltl_05,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_06,bltl_06,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_07,bltl_07,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_08,bltl_08,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_09,bltl_09,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_10c,bltl_10c,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_11,bltl_11,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+bltl_12,bltl_12,P. coccineus,BlancoTlaxcala,Cultivar,NA,NA,NA,NA,NA,NA,Cult-SMOCC,Cult-SMOCC-BlaTla
+chiq_01,chiq_01,P. dumosus,Chiquinivalvo,P. dumosus-Cult,17/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+chiq_02,chiq_02,P. dumosus,Chiquinivalvo,P. dumosus-Cult,18/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+chiq_03,chiq_03,P. dumosus,Chiquinivalvo,P. dumosus-Cult,19/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+chiq_04,chiq_04,P. dumosus,Chiquinivalvo,P. dumosus-Cult,20/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+chiq_05,chiq_05,P. dumosus,Chiquinivalvo,P. dumosus-Cult,21/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+chiq_06,chiq_06,P. dumosus,Chiquinivalvo,P. dumosus-Cult,22/12/15,Chiapas,Chiquinivalvo,16.7075,-92.8575,1467,P. dumosus-Cult,P. dumosus-Cult
+cuil_01c,cuil_01c,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_02,cuil_02,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_03,cuil_03,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_04,cuil_04,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_05,cuil_05,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_07,cuil_07,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_11,cuil_11,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_21,cuil_21,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_22,cuil_22,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_23c,cuil_23c,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_24,cuil_24,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_25,cuil_25,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+cuil_26,cuil_26,P. coccineus,Cuilapam,Cultivar,1/12/2015,Oaxaca,Cuilapam,16.992662,-96.77859,1577,Cult-OV,Cult-OV
+duco_01,duco_01,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_02,duco_02,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_03,duco_03,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_04,duco_04,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_05,duco_05,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_06,duco_06,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_07,duco_07,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+duco_09,duco_09,P. coccineus,Durango,Cultivar,2015,Durango,Durango,NA,NA,NA,Cult-SMOCC,Cult-SMOCC
+edia_01,edia_01,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_02,edia_02,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_03,edia_03,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_04,edia_04,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_05,edia_05,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_06,edia_06,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_07,edia_07,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_08,edia_08,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_09,edia_09,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_10,edia_10,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+edia_11,edia_11,P. coccineus,EspinazoDiablo,Wild,25-Oct-15,Durango,Espinazo del Diablo,23.64005,-105.8248833,1422,Wild-SMOCC,Wild-SMOCC-EspDia
+gole_01,gole_01,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_02,gole_02,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_03,gole_03,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_04,gole_04,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_05,gole_05,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_06,gole_06,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_07,gole_07,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_08,gole_08,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_09,gole_09,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+gole_10,gole_10,P. coccineus,GonzalezLeon,Cultivar,15/12/15,Chiapas,Margarita,16.50694444,-92.06416667,1579,Cult-SUR-CH,Cult-SUR-CH
+moto_01,moto_01,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+moto_02,moto_02,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+moto_03,moto_03,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+moto_04,moto_04,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+moto_05,moto_05,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+moto_06,moto_06,P. dumosus,Motozintla,P. dumosus-Cult,14/12/15,Chiapas,Motozintla,15.42933,-92.331423,2671,P. dumosus-Cult,P. dumosus-Cult
+naha_01,naha_01,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_02,naha_02,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_03,naha_03,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_04,naha_04,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_05,naha_05,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_06,naha_06,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_07,naha_07,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_08,naha_08,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_09,naha_09,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_10,naha_10,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_11,naha_11,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+naha_12,naha_12,P. coccineus,Naha,Cultivar,15/12/15,Chiapas,Ocosingo,16.94064,-91.590376,917,Cult-SUR-CH,Cult-SUR-CH
+oxch_03,oxch_03,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_04,oxch_04,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_05,oxch_05,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_06,oxch_06,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_07,oxch_07,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_08,oxch_08,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_10,oxch_10,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_11,oxch_11,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_12c,oxch_12c,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_13c,oxch_13c,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_14,oxch_14,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+oxch_15,oxch_15,P. coccineus,Oxchuc,Cultivar,16/12/15,Chiapas,Oxchuc,16.803412,-92.322096,2001,Cult-SUR-CH,Cult-SUR-CH
+pual_01,pual_01,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_02,pual_02,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_03,pual_03,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_04,pual_04,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_05,pual_05,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_06,pual_06,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_07,pual_07,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_08,pual_08,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_09,pual_09,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_10,pual_10,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_11,pual_11,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+pual_12,pual_12,P. coccineus,Tlalancaneca,Cultivar,2015,Puebla,San Matias Tlalancaleca,19.362396,-98.508132,2372,Cult-TMVB,Cult-TMVB
+regc_01,regc_01,P. coccineus,Regocijo-C,Cultivar,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Cult-SMOCC,Cult-SMOCC
+regc_02c,regc_02c,P. coccineus,Regocijo-C,Cultivar,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Cult-SMOCC,Cult-SMOCC
+regc_04,regc_04,P. coccineus,Regocijo-C,Cultivar,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Cult-SMOCC,Cult-SMOCC
+regc_05,regc_05,P. coccineus,Regocijo-C,Cultivar,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Cult-SMOCC,Cult-SMOCC
+regc_06,regc_06,P. coccineus,Regocijo-C,Cultivar,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Cult-SMOCC,Cult-SMOCC
+regs_01,regs_01,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_02,regs_02,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_03,regs_03,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_04,regs_04,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_05,regs_05,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_06,regs_06,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_08,regs_08,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_09,regs_09,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_10,regs_10,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_11,regs_11,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_13,regs_13,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_15,regs_15,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+regs_17,regs_17,P. coccineus,Regocijo-S,Wild,26-Oct-15,Durango,Durango,23.68485333,-105.1249,2566,Wild-SMOCC,Wild-SMOCC-Rego
+scri_01,scri_01,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_02,scri_02,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_03,scri_03,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_04,scri_04,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_05,scri_05,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_14,scri_14,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+scri_16,scri_16,P. coccineus,SanCristobal,Wild,16/12/15,Chiapas,San Cristobal,16.69805556,-92.60277778,2229,Wild-SUR-CH,Wild-SUR-CH
+talq_01,talq_01,P. dumosus,Talquian,P. dumosus-Cult,14/12/15,Chiapas,Union Juarez,15.088913,-92.083435,1728,P. dumosus-Cult,P. dumosus-Cult
+talq_02,talq_02,P. dumosus,Talquian,P. dumosus-Cult,14/12/15,Chiapas,Union Juarez,15.088913,-92.083435,1728,P. dumosus-Cult,P. dumosus-Cult
+viun_01,viun_01,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_02,viun_02,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_03,viun_03,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_04,viun_04,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_05,viun_05,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_06,viun_06,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_07,viun_07,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_08,viun_08,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_09,viun_09,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_10,viun_10,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_11,viun_11,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
+viun_12,viun_12,P. coccineus,VillaUnion,Cultivar,NA,Durango,Poanas,23.974722,-104.044444,1901,Cult-SMOCC,Cult-SMOCC
