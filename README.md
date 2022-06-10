@@ -6,24 +6,40 @@ This repository contains the script used in the article "The genomic signature o
 
 ## Prerequistes
 PLINK 1.07
+
 VCFtools 0.1.15
+
 Admixture 1.3
+
 FastTreeMP
+
 ADZE 1.0
+
 fastsimcoal2
+
 easySFS
 
 ### R packages
 rehh
+
 vcfR
+
 Hierfstat
+
 VariantAnnotation
+
 geosphere
+
 ggpubr
+
 stringr
+
 HDplot
+
 adegenet
+
 SNPRelate
+
 
 ## Directories
 **bin**: contains the scripts and is the working directory for them.
