@@ -1,10 +1,10 @@
 # Wild-to-crop_introgression_Pcocci
 
-#The genomic signature of wild‐to‐crop introgression during the domestication of scarlet runner bean (*Phaseolus coccineus* L.)
+## The genomic signature of wild‐to‐crop introgression during the domestication of scarlet runner bean (*Phaseolus coccineus* L.)
 
 This repository contains the script used in the article "The genomic signature of wild‐to‐crop introgression during the domestication of scarlet runner bean (*Phaseolus coccineus* L.)"
 
-##Prerequistes
+## Prerequistes
 PLINK 1.07
 VCFtools 0.1.15
 Admixture 1.3
@@ -13,7 +13,7 @@ ADZE 1.0
 fastsimcoal2
 easySFS
 
-###R packages
+### R packages
 rehh
 vcfR
 Hierfstat
@@ -25,7 +25,7 @@ HDplot
 adegenet
 SNPRelate
 
-##Directories
+## Directories
 **bin**: contains the scripts and is the working directory for them.
 **meta**: information related to data collection, populations, etc.
 **data**: filtered vcf files are available at [https://osf.io/h7sa5/](https://osf.io/h7sa5/)
@@ -42,7 +42,7 @@ SNPRelate
 2.2 Ancestry clustering: ``Admixture_coccineus.sh`` and ``Plot_admixture.R``
 2.3 Phylogeny: ``FastTree_VDC.sh``
 
-3 Genetic diversity and differentiation
+**3 Genetic diversity and differentiation**
 3.1 Het, FIS and Fst: ``He-Fis-Fst_Hierfstat.R``
 3.2 Privite alleles identification: ``private_alleles_pop.R`` and ``private_alleles_status.R``
 3.3 Distance and He correlation: ``correlation_dist-He.R``
@@ -58,7 +58,7 @@ SNPRelate
 6.2 Runs of Homozygosity: ``ROH.sh`` and ``Plot_ROH.R``
 6.3 Demographic scenarios: markdown file in the directory ``fastsimcoal`` contains further details about the construction and test of the demographic scenarios. 
 
-##Contact
+## Contact
 Azalea Guerrra Garcia
 azalea.guerra@iecologia.unam.mx
 azalea.guerra.g@gmail.com
